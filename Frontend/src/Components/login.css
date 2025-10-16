@@ -1,0 +1,6 @@
+body{
+      background: linear-gradient(to left, blue, pink, skyblue);
+      height: auto;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      /* position: relative; */
+}
